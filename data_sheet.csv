@@ -1,0 +1,666 @@
+Text,Symptom
+I have an intense urge to scratch my skin all over my body,itching
+My skin feels like it's crawling with insects,itching
+I've been waking up in the middle of the night because of how itchy I am,itching
+I've noticed red bumps appearing all over my body that are really itchy,itching
+I can't wear certain fabrics or use certain soaps because they make my skin itch even more,itching
+I have a red bumpy rash on my arms and legs that won't go away,skin_rash
+My skin is really dry and itchy and there's a rash forming around it,skin_rash
+I have a rash that started on my chest and has now spread to other parts of my body,skin_rash
+I noticed a rash on my skin that looks like small fluid-filled blisters,skin_rash
+The rash on my skin is really painful and feels like a burning sensation,skin_rash
+I have these bumps on my skin that feel like hard lumps,nodal_skin_eruptions
+The skin on my arms and legs has small nodules that are really painful,nodal_skin_eruptions
+I noticed raised red bumps on my skin that are really itchy,nodal_skin_eruptions
+The nodules on my skin have grown in size and number over the past few weeks,nodal_skin_eruptions
+The nodules on my skin are really sensitive to touch and are causing me a lot of discomfort,nodal_skin_eruptions
+I can't stop sneezing it's like my nose is always itchy,continuous_sneezing
+I've been sneezing non-stop for the past few days and it's really affecting my daily life,continuous_sneezing
+Whenever I go outside or am exposed to allergens I start sneezing continuously,continuous_sneezing
+I have a runny nose and sneeze a lot especially in the mornings,continuous_sneezing
+My eyes are watery and itchy and I can't stop sneezing,continuous_sneezing
+I can't stop shivering even though I'm wearing warm clothes,shivering
+I feel like I have a fever because of how much I'm shivering and experiencing chills,shivering
+I'm feeling really cold even though it's warm inside,shivering
+My body temperature keeps fluctuating and I'm experiencing chills as a result,shivering
+I've been shivering uncontrollably for the past hour and I can't seem to warm up,shivering
+I'm experiencing sudden waves of intense coldness that make my entire body shiver,chills
+I'm feeling really weak and shaky and I keep getting these intense bouts of chills,chills
+The chills are making me feel nauseous and light-headed,chills
+I feel like I can't get warm and the chills are getting more frequent and severe,chills
+The chills are really uncomfortable and they're making me feel exhausted and drained,chills
+My joints ache all the time and it's making it hard to move around,joint_pain
+I feel really stiff and sore especially in my knees and shoulders,joint_pain
+The joint pain is so bad that I can't even lift things or perform simple tasks without experiencing discomfort,joint_pain
+The pain in my joints is throbbing and constant and I'm finding it hard to find any relief,joint_pain
+The joint pain is affecting my mobility and causing me to feel frustrated and helpless,joint_pain
+I have a sharp stabbing pain in my stomach that won't go away,stomach_pain
+I feel really bloated and uncomfortable and the stomach pain is making it hard to eat or drink anything,stomach_pain
+The stomach pain is accompanied by nausea and vomiting and I'm not sure what's causing it,stomach_pain
+The pain in my stomach is cramping and persistent and it's making me feel anxious and worried,stomach_pain
+I've been experiencing stomach pain for a while now and it's starting to interfere with my daily life,stomach_pain
+I have a burning sensation in my chest and throat that feels like acid is rising up from my stomach,acidity
+The acidity is causing me to feel nauseous and bloated and I'm having trouble digesting food,acidity
+The acid reflux is making it hard to sleep at night and I'm constantly waking up with a sour taste in my mouth,acidity
+The acidity is accompanied by stomach pain and discomfort and it's making me feel really anxious and frustrated,acidity
+I've tried taking antacids but they don't seem to be providing any relief from the acidity,acidity
+I have painful sores on my tongue that are making it hard to eat or talk,ulcers_on_tongue
+The ulcers on my tongue are causing a lot of discomfort and pain and they're not going away,ulcers_on_tongue
+I feel really self-conscious about the ulcers on my tongue and I'm worried they might be contagious,ulcers_on_tongue
+The ulcers on my tongue are making it hard to brush my teeth or drink anything and I'm feeling really frustrated and uncomfortable,ulcers_on_tongue
+I'm not sure what's causing the ulcers on my tongue but they're making me feel really anxious and worried,ulcers_on_tongue
+My muscles are getting weaker and I'm having trouble doing simple tasks like lifting objects or walking up stairs,muscle_wasting
+I've noticed a significant decrease in my muscle mass and it's making me feel really self-conscious,muscle_wasting
+The muscle wasting is causing me to feel fatigued and tired all the time and I'm finding it hard to stay motivated,muscle_wasting
+I've been losing muscle mass even though I haven't changed my exercise routine or diet and I'm not sure what's causing it,muscle_wasting
+The muscle wasting is affecting my balance and coordination and I'm worried that it might lead to falls or injuries,muscle_wasting
+I'm feeling really nauseous and keep vomiting even though I haven't eaten anything,vomiting
+The vomiting is making me feel weak and dehydrated and I'm finding it hard to keep anything down,vomiting
+I've been vomiting for a while now and it's starting to affect my appetite and energy levels,vomiting
+The vomiting is accompanied by stomach pain and discomfort and I'm not sure what's causing it,vomiting
+I'm feeling embarrassed about the vomiting and I'm worried that it might be a symptom of a more serious condition,vomiting
+I'm experiencing a burning sensation when I pee and it's really uncomfortable,burning_micturition
+The burning sensation is accompanied by frequent urination and a sense of urgency and it's interfering with my daily life,burning_micturition
+I've noticed blood in my urine along with the burning sensation and I'm worried that it might be a sign of something serious,burning_micturition
+The burning micturition is causing me to feel anxious and stressed and I'm finding it hard to focus on anything else,burning_micturition
+I'm not sure what's causing the burning sensation but it's making me feel really uncomfortable and uneasy,burning_micturition
+I feel really tired and drained all the time even after a full night's sleep,fatigue
+The fatigue is affecting my ability to concentrate and focus and it's interfering with my work and daily activities,fatigue
+I'm feeling weak and lethargic and I'm finding it hard to motivate myself to do anything,fatigue
+The fatigue is accompanied by muscle weakness and soreness and I'm not sure what's causing it,fatigue
+I'm feeling frustrated and overwhelmed by the constant fatigue and I'm not sure how to improve my energy levels,fatigue
+I've noticed that I've been gaining weight rapidly even though I haven't changed my diet or exercise routine,weight_gain
+The weight gain is causing me to feel self-conscious and uncomfortable in my own skin,weight_gain
+I'm feeling bloated and sluggish and the weight gain is making it hard for me to move around comfortably,weight_gain
+I'm worried that the weight gain might be a sign of a more serious health condition and I'm feeling anxious and stressed,weight_gain
+I've tried to lose weight but nothing seems to be working and I'm feeling frustrated and helpless,weight_gain
+I constantly feel on edge and worried about everything,anxiety
+I have a racing heart and sweaty palms even when there's no real reason to be anxious,anxiety
+I feel like I'm always waiting for something bad to happen and it's really affecting my daily life,anxiety
+I'm struggling with intrusive thoughts and can't seem to shake them,anxiety
+I have trouble sleeping because I'm constantly worrying about things,anxiety
+My hands and feet are always freezing no matter how many layers I wear,cold_hands_and_feets
+I have trouble staying warm even when I'm indoors,cold_hands_and_feets
+My fingers and toes turn blue and feel numb when they get really cold,cold_hands_and_feets
+I feel like I'm constantly rubbing my hands together to try to warm them up,cold_hands_and_feets
+I'm starting to notice that my cold hands and feet are starting to affect my daily activities,cold_hands_and_feets
+I feel like I'm on an emotional rollercoaster with my moods changing rapidly,mood_swings
+I can go from feeling happy to feeling really down in a matter of minutes,mood_swings
+I'm struggling to control my emotions and find myself lashing out at loved ones,mood_swings
+I feel like my mood swings are impacting my relationships and my ability to function in daily life,mood_swings
+I'm starting to feel like I'm not myself anymore and it's really scary,mood_swings
+I've been losing weight rapidly without even trying,weight_loss
+I'm experiencing a loss of appetite and struggle to eat anything,weight_loss
+I'm losing weight so quickly that it's starting to worry me,weight_loss
+I feel weak and tired all the time and I think it's because I'm not getting enough nutrients,weight_loss
+My clothes are starting to feel loose and I'm starting to look gaunt,weight_loss
+I have trouble sitting still and feel like I need to constantly move around,restlessness
+I find it hard to relax and unwind even at night,restlessness
+I feel like I have excess energy that I don't know how to release,restlessness
+I find myself pacing around the house when I'm feeling restless,restlessness
+I feel like I'm constantly fidgeting with my hands or feet,restlessness
+I feel like I'm constantly tired and have no energy,lethargy
+It's been difficult for me to get out of bed in the morning,lethargy
+I find myself taking naps during the day because I'm so tired,lethargy
+I don't feel like doing anything and lack motivation,lethargy
+I feel like I'm in a daze and can't concentrate on anything,lethargy
+I have white or red patches in my throat that are painful,patches_in_throat
+I feel like there's something stuck in my throat,patches_in_throat
+I have difficulty swallowing and it hurts to do so,patches_in_throat
+I've noticed that my voice sounds hoarse or scratchy,patches_in_throat
+My throat feels raw and irritated like I have a sore throat,patches_in_throat
+I feel shaky and lightheaded when my blood sugar levels are low,irregular_sugar_level
+I feel sluggish and tired when my blood sugar levels are high,irregular_sugar_level
+I've noticed that I'm urinating more frequently than usual,irregular_sugar_level
+I get headaches and feel dizzy when my blood sugar levels are off,irregular_sugar_level
+I'm concerned about the long-term effects of having irregular sugar levels,irregular_sugar_level
+I have been coughing for several days and it's getting worse,cough
+Every time I cough I feel a sharp pain in my chest,cough
+My cough is dry and persistent and it's been keeping me up at night,cough
+I've been coughing up phlegm and it's thick and greenish-yellow in color,cough
+My cough is accompanied by a sore throat and shortness of breath,cough
+I've had a fever of 102°F for the past three days and it won't go down,high_fever
+My body temperature is fluctuating between high and normal and I feel extremely weak,high_fever
+My fever is causing me to have chills and excessive sweating,high_fever
+I have a pounding headache and my muscles ache all over,high_fever
+My throat is sore and I'm experiencing difficulty swallowing due to my fever,high_fever
+My eyes appear to be sunk into their sockets and they look tired and dull,sunken_eyes
+I've been feeling dehydrated and exhausted and my eyes are a telltale sign,sunken_eyes
+My eye sockets are unusually deep and my skin is dry and flaky,sunken_eyes
+I've been experiencing severe nausea and vomiting and my eyes seem to be affected,sunken_eyes
+My sunken eyes are making me feel self-conscious and I don't know what to do,sunken_eyes
+I've been sweating excessively even when I'm not doing anything physically demanding,sweating
+My clothes are always drenched in sweat and it's embarrassing,sweating
+I've been experiencing night sweats and they're disrupting my sleep,sweating
+My sweating is accompanied by fever and chills and I feel like I'm going through cycles of hot and cold flashes,sweating
+I've noticed a foul odor in my sweat and I'm worried it could be a sign of something serious,sweating
+I've been feeling extremely thirsty and my mouth and throat feel dry,dehydration
+My skin is dry and flaky and my lips are cracked and peeling,dehydration
+I've noticed that I'm not urinating as often as I used to and my urine is dark yellow in color,dehydration
+I've been experiencing headaches and dizziness and I feel weak and fatigued,dehydration
+My dehydration is making it difficult for me to concentrate and I feel like I'm in a fog,dehydration
+I've been experiencing bloating and discomfort in my stomach after eating,indigestion
+I feel like my food is not digesting properly and I'm experiencing heartburn and acid reflux,indigestion
+I've been burping excessively and my stomach feels full and uncomfortable,indigestion
+My indigestion is causing me to have nausea and vomiting and I've lost my appetite,indigestion
+My stools are loose and watery and I've been experiencing diarrhea,indigestion
+I've been experiencing this dull throbbing headache that won't go away no matter what I do,headache
+My headaches seem to be getting worse and I've noticed they're often accompanied by sensitivity to light and sound,headache
+Sometimes my headaches are so intense that I feel nauseous and dizzy and have trouble concentrating,headache
+I've been experiencing these sharp shooting pains in my head that come and go throughout the day,headache
+My headaches tend to be located in the front or back of my head and often get worse when I'm stressed or anxious,headache
+I've noticed that my skin has a yellowish tint to it especially on my face and the whites of my eyes,yellowish_skin
+I've been feeling really tired and run down lately and my skin has taken on a yellowish hue that's making me worry,yellowish_skin
+My skin used to be a healthy pinkish color but now it's looking more yellowish and sallow,yellowish_skin
+I've been experiencing some pain in my upper abdomen and now I've noticed that my skin is starting to look yellowish as well,yellowish_skin
+I'm not sure if it's just my imagination but I feel like my skin has a yellowish cast to it especially when I'm under fluorescent lights,yellowish_skin
+I've noticed that my urine is darker than usual almost brownish in color,dark_urine
+My urine has been dark and cloudy for a few days now and I'm worried it might be a sign of something serious,dark_urine
+I've been feeling really dehydrated lately and now my urine is looking really dark and concentrated,dark_urine
+I've never seen my urine this dark before and I'm wondering if it could be related to the medications I'm taking,dark_urine
+I've been experiencing some pain in my side and now I've noticed that my urine is coming out dark and discolored,dark_urine
+I've been feeling really nauseous lately especially in the morning and after meals,nausea
+Sometimes my nausea is so intense that I feel like I might vomit but nothing comes up,nausea
+I've been experiencing this constant feeling of queasiness in my stomach even when I haven't eaten anything,nausea
+My nausea seems to be getting worse instead of better and now I'm starting to lose my appetite too,nausea
+I'm not sure what's causing it but I've been feeling really nauseous and dizzy especially when I stand up too quickly,nausea
+I used to love food but lately I have no interest in eating and I have to force myself to have a few bites,loss_of_appetite
+My appetite has been steadily decreasing over the past few weeks and now I barely eat anything at all,loss_of_appetite
+I don't feel hungry anymore and when I do eat I feel full really quickly and can't finish my meal,loss_of_appetite
+My doctor told me that my loss of appetite could be related to my depression or anxiety but I'm not sure,loss_of_appetite
+I'm worried about losing too much weight because of my lack of appetite but nothing seems to taste good anymore,loss_of_appetite
+I've been experiencing a dull ache behind my eyes that won't go away even with pain relievers,pain_behind_the_eyes
+Whenever I move my eyes it feels like there's a sharp pain shooting through the back of my head,pain_behind_the_eyes
+I've noticed that my eyes feel strained and sore especially after looking at screens for long periods of time,pain_behind_the_eyes
+The pain behind my eyes gets worse when I'm exposed to bright lights or loud noises,pain_behind_the_eyes
+I've been experiencing blurred vision and sensitivity to light along with the pain behind my eyes,pain_behind_the_eyes
+I've been experiencing a sharp pain in my lower back that makes it hard to stand up or sit down,back_pain
+My back has been feeling stiff and achy especially after sitting or lying down for long periods of time,back_pain
+I've noticed that my back pain gets worse when I'm carrying heavy objects or bending over,back_pain
+The pain in my back is constant and radiates down my legs making it hard to walk or stand for long periods of time,back_pain
+I've been experiencing numbness and tingling in my back along with the pain,back_pain
+I've been having trouble passing stools and it's been several days since I last had a bowel movement,constipation
+Whenever I do manage to pass stools it's very painful and uncomfortable,constipation
+I feel bloated and full even though I haven't eaten much and my stomach feels hard to the touch,constipation
+I've been experiencing cramps and abdominal pain along with the constipation,constipation
+I've noticed that my stool is dry and hard to pass and sometimes there's blood in it,constipation
+I've been experiencing a sharp pain in my abdomen that comes and goes and it's been getting worse over time,abdominal_pain
+My stomach feels bloated and tender to the touch and I've been experiencing nausea and vomiting as well,abdominal_pain
+The pain in my abdomen is worse after eating certain foods or drinking alcohol,abdominal_pain
+I've been experiencing diarrhea and constipation along with the abdominal pain,abdominal_pain
+I've noticed that my urine is dark and there's blood in it along with the abdominal pain,abdominal_pain
+I've been having very frequent bowel movements that are loose and watery and it's been going on for several days now,diarrhoea
+Whenever I eat anything my stomach cramps up and I need to rush to the bathroom,diarrhoea
+I feel weak and dehydrated from all the fluids I've lost due to the diarrhea,diarrhoea
+I've noticed that there's blood or mucus in my stool along with the diarrhea,diarrhoea
+I've been experiencing nausea and vomiting along with the diarrhea,diarrhoea
+I've been feeling feverish and my temperature has been slightly elevated but I don't have any other symptoms,mild_fever
+My body feels achy and I've been feeling tired and fatigued since the fever started,mild_fever
+I've been experiencing chills and shivers along with the mild fever,mild_fever
+I've noticed that my throat is sore and my nose is congested along with the mild fever,mild_fever
+I've been taking over-the-counter medication to bring the fever down but it keeps coming back,mild_fever
+My urine has been a dark yellow color for the past few days and I'm not sure why,yellow_urine
+I've noticed my urine is consistently yellow even when I drink plenty of water,yellow_urine
+I'm worried about my yellow urine especially since I don't have any other symptoms,yellow_urine
+I've been feeling dehydrated and my urine has been yellow and strong-smelling,yellow_urine
+My doctor told me that yellow urine could be a sign of dehydration or a urinary tract infection,yellow_urine
+I've noticed a yellowish tint to the whites of my eyes and I'm not sure what it means,yellowing_of_eyes
+My eyes have been looking yellow and it's making me really self-conscious,yellowing_of_eyes
+My doctor told me that my yellow eyes could be related to liver problems or anemia,yellowing_of_eyes
+I've been feeling really fatigued and my yellow eyes are worrying me,yellowing_of_eyes
+I didn't notice my yellow eyes at first but my partner pointed it out and I'm concerned now,yellowing_of_eyes
+I'm feeling really sick and my doctor told me that I might be experiencing acute liver failure,acute_liver_failure
+I've been experiencing nausea abdominal pain and yellowing of my eyes and skin which my doctor said could be signs of liver failure,acute_liver_failure
+My liver function tests came back really abnormal and my doctor is concerned it could lead to acute liver failure,acute_liver_failure
+I've been feeling really tired and confused lately and my doctor thinks it might be related to my liver problems,acute_liver_failure
+I'm scared about the possibility of acute liver failure and what it could mean for my health,acute_liver_failure
+I've been feeling really bloated and my ankles and legs are swollen which I think might be related to fluid overload,fluid_overload
+My doctor told me that my shortness of breath and fast heartbeat could be signs of fluid overload in my lungs,fluid_overload
+I've been retaining a lot of water and my doctor is concerned about fluid overload in my body,fluid_overload
+I'm having trouble sleeping and my doctor suspects that fluid overload could be causing my symptoms,fluid_overload
+I've been feeling really heavy and uncomfortable and I think it might be due to fluid overload,fluid_overload
+My stomach has been really swollen and uncomfortable lately even though I haven't changed my diet or exercise routine,swelling_of_stomach
+I'm having trouble buttoning my pants because of the swelling in my stomach,swelling_of_stomach
+My doctor told me that my stomach swelling could be due to digestive issues or an underlying condition,swelling_of_stomach
+I'm feeling really self-conscious about my swollen stomach and it's affecting my daily life,swelling_of_stomach
+I've been experiencing pain and discomfort in my swollen stomach and I'm worried it could be something serious,swelling_of_stomach
+I've noticed some swollen and tender lumps in my neck and armpits which my doctor said could be swollen lymph nodes,swelled_lymph_nodes
+My doctor is concerned about my swollen lymph nodes and ordered some tests to figure out the cause,swelled_lymph_nodes
+I've been feeling really fatigued and achy lately which might be related to my swollen lymph nodes,swelled_lymph_nodes
+I'm worried that my swollen lymph nodes could be a sign of cancer or a serious infection,swelled_lymph_nodes
+My swollen lymph nodes are making it difficult to move my neck and arms and I'm concerned about the long-term effects,swelled_lymph_nodes
+I've been feeling really tired and run down lately even though I'm getting enough sleep,malaise
+I don't have any specific symptoms but just an overall feeling of unease and discomfort,malaise
+I've been having trouble getting motivated to do things I usually enjoy and I'm feeling really apathetic,malaise
+I'm experiencing general body aches and pains and just feel overall unwell,malaise
+I have a sense of fatigue that doesn't seem to go away no matter how much rest I get,malaise
+I've been having trouble seeing clearly and things look fuzzy or out of focus,blurred_and_distorted_vision
+My vision seems to be distorted like things are moving or wavy even when they're not,blurred_and_distorted_vision
+I'm experiencing double vision and things look like they're overlapping or duplicated,blurred_and_distorted_vision
+My vision seems to be getting worse over time and I'm having trouble reading or watching TV,blurred_and_distorted_vision
+My eyes feel strained and tired and I'm having trouble focusing on things for extended periods of time,blurred_and_distorted_vision
+I'm coughing up a lot of mucus that's thick and sticky and sometimes it's hard to breathe,phlegm
+I have a constant feeling of something stuck in my throat and I need to clear my throat frequently,phlegm
+I'm having trouble sleeping because I keep coughing up phlegm and it's really uncomfortable,phlegm
+My chest feels congested and heavy and I'm having trouble taking deep breaths,phlegm
+I've been coughing up yellow or green phlegm and I'm worried it might be a sign of infection,phlegm
+My throat feels scratchy and sore like I have a lump in my throat that won't go away,throat_irritation
+I'm experiencing a burning or stinging sensation in my throat especially when I swallow,throat_irritation
+My throat feels dry and itchy and I'm having trouble speaking or singing without discomfort,throat_irritation
+I'm experiencing pain in my throat that radiates to my ears and it's really uncomfortable,throat_irritation
+I have a persistent cough that's accompanied by a tickling or itching sensation in my throat,throat_irritation
+My eyes are really red and bloodshot and they feel itchy and uncomfortable,redness_of_eyes
+I'm experiencing a burning or stinging sensation in my eyes and they're really sensitive to light,redness_of_eyes
+My eyes feel dry and gritty and I'm having trouble focusing on things without rubbing them,redness_of_eyes
+My eyes are tearing up a lot and they feel like there's something in them even when there isn't,redness_of_eyes
+I have a headache and my eyes are really sore and I'm experiencing a lot of eye strain from looking at screens,redness_of_eyes
+I feel a constant pressure in my forehead cheeks and nose,sinus_pressure
+My sinuses feel full and congested and I can't breathe properly,sinus_pressure
+I feel a headache and pain around my eyes and nose,sinus_pressure
+I feel like my head is being squeezed from the inside,sinus_pressure
+My sinuses feel tender and sensitive to the touch,sinus_pressure
+I've been blowing my nose a lot lately and it seems like there's always a lot of clear discharge,runny_nose
+My nose is really runny and it's making it hard to breathe through it,runny_nose
+I keep having to sniffle and wipe my nose even when I'm not feeling particularly sick,runny_nose
+I've been sneezing a lot and my nose feels really itchy and congested,runny_nose
+It seems like every time I go outside my nose starts running uncontrollably,runny_nose
+My nose feels really stuffy and it's hard to breathe through it,congestion
+I feel like there's a lot of pressure in my sinuses and my head feels kind of foggy,congestion
+I keep having to clear my throat and cough to try to get rid of the congestion,congestion
+I've been feeling really congested and my ears feel clogged too,congestion
+It's hard to sleep because of the congestion and I wake up feeling really tired and groggy,congestion
+I've been having this sharp pain in my chest that comes and goes and it's really worrying me,chest_pain
+My chest feels tight and uncomfortable and sometimes it's hard to take a deep breath,chest_pain
+I feel a burning sensation in my chest especially after I eat or when I'm lying down,chest_pain
+The pain in my chest seems to radiate to my arm and shoulder too,chest_pain
+I've been feeling short of breath and my chest feels really heavy,chest_pain
+I've been feeling really weak and unsteady on my feet lately like I might fall over,weakness_in_limbs
+My arms and legs feel heavy and it's hard to lift them,weakness_in_limbs
+I'm having trouble with everyday tasks that used to be easy like carrying groceries or climbing stairs,weakness_in_limbs
+I feel like I've lost a lot of muscle mass and my limbs just don't have the same strength as they used to,weakness_in_limbs
+Sometimes my limbs feel tingly or numb and it's hard to tell where they are in space,weakness_in_limbs
+My heart feels like it's racing even when I'm at rest,fast_heart_rate
+I've been experiencing palpitations and my heart feels like it's skipping beats,fast_heart_rate
+I feel like my heart is pounding in my chest and I can't catch my breath,fast_heart_rate
+My heart rate is really high even when I'm not doing anything physically exerting,fast_heart_rate
+I feel like my heart is working overtime and it's making me feel really anxious,fast_heart_rate
+I've been experiencing sharp pain and discomfort when I have a bowel movement,pain_during_bowel_movements
+I feel like there's a lot of pressure and burning sensation in my rectum when I go to the bathroom,pain_during_bowel_movements
+I've been noticing some blood in my stool and it's really painful to pass,pain_during_bowel_movements
+My bowel movements have been really irregular and painful and it's affecting my daily life,pain_during_bowel_movements
+I feel like I have to strain a lot to have a bowel movement and it's causing a lot of pain,pain_during_bowel_movements
+I'm experiencing pain and discomfort in my anal area when I sit or go to the bathroom,pain_in_anal_region
+I have a sharp stabbing pain in my anus that's been getting worse over the past few days,pain_in_anal_region
+There's a dull ache in my rectum that won't go away even after taking pain medication,pain_in_anal_region
+I feel a burning sensation in my anus that makes it uncomfortable to move or sit for extended periods of time,pain_in_anal_region
+I've noticed some swelling and tenderness around my anus which is making it painful to have bowel movements,pain_in_anal_region
+I'm passing stools that have blood in them and I'm not sure why,bloody_stool
+I've noticed that my stool is black and tarry and there are streaks of blood in it,bloody_stool
+There's bright red blood on the toilet paper after I wipe and I'm worried it might be a serious problem,bloody_stool
+I've been experiencing abdominal pain and cramping along with bloody diarrhea,bloody_stool
+I'm feeling weak and dizzy and I've been passing stools that are mostly blood,bloody_stool
+My anus is really itchy and uncomfortable and I can't seem to relieve the itching,irritation_in_anus
+I feel like there's something stuck in my anus that's causing irritation and discomfort,irritation_in_anus
+I've noticed some redness and swelling around my anus and it's making it painful to sit or move,irritation_in_anus
+I'm experiencing a burning or stinging sensation in my anus especially during bowel movements,irritation_in_anus
+I've been scratching my anus a lot and now it's become sore and tender,irritation_in_anus
+I woke up with a stiff neck that's been bothering me all day,neck_pain
+My neck feels really tight and sore and it's difficult to turn my head,neck_pain
+I think I might have pulled a muscle in my neck while exercising because it's been hurting for a few days now,neck_pain
+I've been experiencing headaches along with the neck pain and it's making it hard to concentrate,neck_pain
+I've noticed a clicking or popping sound when I turn my head and it's accompanied by pain and discomfort,neck_pain
+I feel like the room is spinning around me and I'm having trouble keeping my balance,dizziness
+I've been experiencing lightheadedness and feeling like I might faint or pass out,dizziness
+My vision is blurry and I'm having trouble focusing and it's making me feel dizzy and disoriented,dizziness
+I feel dizzy and nauseous when I stand up or move around too quickly,dizziness
+I've been feeling dizzy and off-balance for a few days and it's starting to worry me,dizziness
+I've been experiencing sudden and painful muscle cramps especially in my legs,cramps
+My cramps often happen at night and wake me up and I have to stretch or massage the affected area to get relief,cramps
+I've noticed that my cramps are worse after exercise or when I'm dehydrated,cramps
+My cramps feel like a tightening or knotting sensation and they can last for several minutes at a time,cramps
+I've tried taking over-the-counter remedies for cramps but they don't seem to help much,cramps
+I've been noticing more bruises on my skin lately even from minor bumps or scrapes,bruising
+My bruises are taking longer than usual to heal and often turn yellow or green before fading,bruising
+I haven't had any major injuries so I'm not sure why I'm bruising so easily,bruising
+My bruises are often tender to the touch and can be quite large and dark in color,bruising
+I'm worried that my bruising might be a sign of a more serious underlying condition,bruising
+I've been struggling with my weight for a long time and I feel like I can't lose the extra pounds no matter what I try,obesity
+I've noticed that I'm more tired and have less energy since I gained weight,obesity
+My clothes are feeling tighter and I'm having trouble finding clothes that fit comfortably,obesity
+I'm worried about my risk of developing health problems like diabetes or heart disease because of my weight,obesity
+I've tried different diets and exercise plans but nothing seems to work in the long term,obesity
+My legs feel heavy and swollen especially at the end of the day or after prolonged sitting or standing,swollen_legs
+I've noticed that my ankles are often puffy and that my shoes feel tighter than usual,swollen_legs
+My skin feels stretched and tight over my legs and sometimes there's visible redness or discoloration,swollen_legs
+My swollen legs make it hard to walk or exercise and I feel more tired and achy than usual,swollen_legs
+I'm worried that my swollen legs might be a sign of a circulation or heart problem,swollen_legs
+I've noticed that some of my veins or blood vessels are bulging and swollen especially in my legs or feet,swollen_blood_vessels
+My swollen blood vessels sometimes feel tender or painful to the touch,swollen_blood_vessels
+I'm worried that my swollen blood vessels might be a sign of a more serious condition like deep vein thrombosis or varicose veins,swollen_blood_vessels
+My swollen blood vessels can be unsightly and make me self-conscious about wearing certain clothes or shoes,swollen_blood_vessels
+I've tried elevating my legs or wearing compression stockings to help with my swollen blood vessels but it doesn't always provide relief,swollen_blood_vessels
+My face and eyes look swollen and puffy,puffy_face_and_eyes
+I've been waking up with puffy eyes every morning for the past week,puffy_face_and_eyes
+My face feels tight and uncomfortable like it's swollen from the inside,puffy_face_and_eyes
+My eyes are red and itchy and my face feels swollen and bloated,puffy_face_and_eyes
+My cheeks and under-eye area are really puffy and it's making me look tired all the time,puffy_face_and_eyes
+I noticed a lump on my neck that seems to be getting bigger,enlarged_thyroid
+I'm having trouble swallowing and it feels like there's something stuck in my throat,enlarged_thyroid
+My neck feels swollen and tender especially when I turn my head or touch it,enlarged_thyroid
+I've been feeling really tired and sluggish lately and I read that an enlarged thyroid can cause those symptoms,enlarged_thyroid
+My doctor told me my thyroid is enlarged and wants me to get some tests done to figure out what's going on,enlarged_thyroid
+My nails are really weak and keep breaking or peeling,brittle_nails
+I've noticed that my nails are getting really thin and brittle and they're not growing as fast as they used to,brittle_nails
+My nails are really dry and flaky and they look dull and lifeless,brittle_nails
+I have white spots on my nails and they're really brittle and prone to breaking,brittle_nails
+My nails are starting to curve downwards and feel really weak and fragile,brittle_nails
+My feet and ankles are really swollen and I can't get my shoes on properly,swollen_extremeties
+My fingers feel really tight and puffy and I'm having trouble making a fist,swollen_extremeties
+I've noticed that my legs are really swollen and my skin feels tight and uncomfortable,swollen_extremeties
+My hands and feet feel really bloated and heavy especially at the end of the day,swollen_extremeties
+I have trouble wearing jewelry or watches because my wrists are too swollen,swollen_extremeties
+I'm hungry all the time even right after I've had a big meal,excessive_hunger
+I've noticed that I'm eating a lot more than usual and still feeling hungry,excessive_hunger
+I'm having trouble controlling my cravings and eating way more than I know I should,excessive_hunger
+My hunger is so intense that I'm starting to feel lightheaded and dizzy when I don't eat,excessive_hunger
+I'm eating way more than my friends and family and it's starting to worry me,excessive_hunger
+I've had sexual relations outside of my marriage and I'm worried I may have contracted an STI,extra_marital_contacts
+I feel guilty and ashamed about having extra marital contacts but I don't know how to talk to my partner about it,extra_marital_contacts
+I'm concerned that my extra marital contacts may have put me at risk for HIV or other serious infections,extra_marital_contacts
+I'm experiencing pain or discomfort during sex and I'm worried it may be related to my extra marital contacts,extra_marital_contacts
+I'm feeling anxious and stressed about the consequences of my extra marital contacts and I'm not sure how to cope,extra_marital_contacts
+My lips feel dry and cracked and they sometimes tingle or feel numb,drying_and_tingling_lips
+I've been drinking plenty of water but my lips still feel dry and uncomfortable,drying_and_tingling_lips
+I've noticed that my lips are starting to peel and become discolored and I'm not sure why,drying_and_tingling_lips
+I'm experiencing a burning or itching sensation on my lips and they feel tight and uncomfortable,drying_and_tingling_lips
+I'm worried that my dry and tingling lips might be a symptom of a more serious underlying condition,drying_and_tingling_lips
+I'm having trouble speaking clearly and my words are coming out jumbled or slurred,slurred_speech
+My family has noticed that my speech is becoming more difficult to understand and I'm concerned about what this might mean,slurred_speech
+I'm experiencing other neurological symptoms such as dizziness or weakness along with my slurred speech,slurred_speech
+I've had a stroke or other neurological event in the past and I'm worried that my slurred speech might be a sign of another episode,slurred_speech
+I'm having trouble swallowing and my voice is becoming hoarse in addition to my slurred speech,slurred_speech
+My knee is throbbing and I'm having trouble putting weight on it,knee_pain
+I've been experiencing knee pain for a while but it's getting worse and affecting my mobility,knee_pain
+I'm feeling a popping or clicking sensation in my knee along with the pain,knee_pain
+I injured my knee during a sports activity or accident and it's been bothering me ever since,knee_pain
+I'm noticing swelling or redness around my knee in addition to the pain,knee_pain
+I'm feeling a deep ache or sharp pain in my hip joint especially when I move or walk,hip_joint_pain
+My hip joint is stiff and it's difficult to move it in certain directions,hip_joint_pain
+I'm experiencing pain in my hip joint that's radiating down my leg or into my lower back,hip_joint_pain
+I have a history of arthritis or other joint conditions and I'm worried that my hip joint pain may be related,hip_joint_pain
+I'm experiencing hip joint pain after a fall or other injury and I'm concerned that it might be more serious than I initially thought,hip_joint_pain
+I've been having trouble lifting things and doing activities that used to be easy for me,muscle_weakness
+My muscles feel tired and heavy even when I haven't done anything strenuous,muscle_weakness
+I've noticed that I'm stumbling and tripping more often and my balance isn't as good as it used to be,muscle_weakness
+I feel like my arms and legs are weaker than they used to be and it's getting harder to move them,muscle_weakness
+I'm having trouble climbing stairs and getting up from a chair even though I don't have any pain,muscle_weakness
+I woke up with a stiff neck this morning and it's been bothering me all day,stiff_neck
+I can't turn my head to one side without feeling a sharp pain in my neck,stiff_neck
+My neck feels really tight and sore and I have a hard time finding a comfortable position,stiff_neck
+I think I might have pulled a muscle in my neck because it's been stiff and achy for a few days now,stiff_neck
+I'm having trouble sleeping because my neck is so stiff and uncomfortable,stiff_neck
+My joints have been swollen and tender for a few days and it's starting to affect my mobility,swelling_joints
+I noticed that my fingers and toes are looking puffy and red and my joints feel warm to the touch,swelling_joints
+My knee joint feels really tight and swollen and I have a hard time bending it all the way,swelling_joints
+I have a history of arthritis in my family and I'm worried that the swelling in my joints might be related,swelling_joints
+I've been taking over-the-counter pain relievers for the swelling in my joints but it doesn't seem to be helping much,swelling_joints
+I feel like my joints are really stiff and creaky especially when I first wake up in the morning,movement_stiffness
+It takes me a while to get moving and loosened up even after I've been sitting for a short while,movement_stiffness
+I feel like I'm moving in slow motion and my muscles and joints feel resistant to movement,movement_stiffness
+I've noticed that my gait is uneven and shuffling because my stiffness makes it hard to take normal strides,movement_stiffness
+I'm having trouble bending down to tie my shoes or pick things up off the floor because my movement feels stiff and limited,movement_stiffness
+I feel like the room is spinning around me and it's making me feel dizzy and disoriented,spinning_movements
+Whenever I turn my head or change positions quickly I get a sudden rush of spinning sensations,spinning_movements
+I've been experiencing episodes of vertigo where everything around me starts to spin and I feel like I might fall,spinning_movements
+I've noticed that I'm having trouble with my balance and I think it might be related to the spinning movements in my head,spinning_movements
+The spinning sensations are making it hard for me to concentrate and focus on anything else,spinning_movements
+I feel like I'm losing my balance a lot lately and I'm scared I might fall,loss_of_balance
+Sometimes I feel like the room is spinning or moving and it's hard to stay balanced,loss_of_balance
+I've noticed that I'm stumbling or tripping more often than usual and it's starting to worry me,loss_of_balance
+I feel like I'm walking on a boat or a trampoline and it's making me feel really disoriented,loss_of_balance
+I've been having trouble standing or sitting without support and it feels like my balance is just off,loss_of_balance
+I feel like I'm swaying or rocking even when I'm standing still and it's making me feel really unsteady,unsteadiness
+Sometimes I feel like the ground is moving under my feet and I can't seem to stay still,unsteadiness
+I've been having trouble walking in a straight line or keeping my balance and it's making me feel really unsteady,unsteadiness
+I feel like I'm on a boat or a train even when I'm standing still and it's making me feel really dizzy,unsteadiness
+I feel like my body is moving in slow motion and it's hard to keep up with my surroundings,unsteadiness
+I've noticed that one side of my body feels weaker than the other and it's starting to affect my daily activities,weakness_of_one_body_side
+I'm having trouble lifting or carrying things with one hand or arm and it feels like it's weaker than the other side,weakness_of_one_body_side
+My leg feels like it's giving out or dragging and it's hard to walk normally,weakness_of_one_body_side
+I've noticed that one side of my face feels droopy or numb and it's starting to worry me,weakness_of_one_body_side
+I'm having trouble with my coordination and it feels like one side of my body isn't responding as well as the other,weakness_of_one_body_side
+I've noticed that I can't smell things as well as I used to and it's been like this for a while,loss_of_smell
+I've been having trouble smelling strong odors or subtle scents and it's starting to affect my appetite and enjoyment of food,loss_of_smell
+I can't smell anything at all and it's making me feel really disconnected from my environment,loss_of_smell
+I've noticed that things don't smell the way they used to and it's starting to affect my sense of taste too,loss_of_smell
+I've been having trouble smelling things that I know should have a strong scent like perfume or food and it's really frustrating,loss_of_smell
+I've been feeling a constant pressure or urgency to urinate even when my bladder is empty,bladder_discomfort
+Sometimes I feel like I can't hold my urine for very long and I'm worried I might have an accident,bladder_discomfort
+I'm having pain or discomfort when I urinate and it's making me feel really uncomfortable,bladder_discomfort
+I feel like I'm not emptying my bladder completely and it's making me feel like I need to go all the time,bladder_discomfort
+I've noticed that my urine has a strong odor or unusual color and I'm worried it might be related to my bladder,bladder_discomfort
+My urine has a really strong unpleasant odor,foul_smell_of_urine
+I've noticed that my urine smells different than usual and it's making me worried,foul_smell_of_urine
+My urine smells like ammonia and it's been like this for a few days now,foul_smell_of_urine
+I've had a persistent foul smell in my urine despite drinking a lot of water,foul_smell_of_urine
+I'm experiencing a strong fishy smell in my urine and it's making me really uncomfortable,foul_smell_of_urine
+I feel like I need to pee all the time even when my bladder is empty,continuous_feel_of_urine
+I've been going to the bathroom every few minutes and it's starting to disrupt my daily routine,continuous_feel_of_urine
+I have a constant urge to urinate even when I've just gone to the bathroom,continuous_feel_of_urine
+I feel like I can't hold my urine in for very long and it's becoming a problem,continuous_feel_of_urine
+I'm having trouble sleeping through the night because I keep waking up to go to the bathroom,continuous_feel_of_urine
+I've been having a lot of gas lately and it's really embarrassing,passage_of_gases
+I feel bloated and uncomfortable because of all the gas I'm passing,passage_of_gases
+I've noticed that I'm passing gas more often than usual even after eating small meals,passage_of_gases
+I feel like there's a lot of pressure in my stomach and it's causing me to pass a lot of gas,passage_of_gases
+I'm experiencing painful cramps and bloating along with the gas,passage_of_gases
+I've been experiencing a persistent itch deep inside my ear and it's really uncomfortable,internal_itching
+I feel like there's an itch that I can't scratch inside my nose,internal_itching
+I've been experiencing itching in my anus and it's really uncomfortable,internal_itching
+I'm feeling itchy inside my vagina and it's causing me a lot of discomfort,internal_itching
+I've been experiencing an internal itch in my throat that's making it hard to swallow,internal_itching
+I feel really unwell and my appearance reflects it with my skin looking pale and my eyes sunken,toxic_look_(typhos)
+I have a fever and my face looks flushed and tired all the time,toxic_look_(typhos)
+I'm experiencing severe fatigue and it's showing in the way I look,toxic_look_(typhos)
+I'm feeling really nauseous and my skin looks yellowish and sickly,toxic_look_(typhos)
+I have a general feeling of malaise and my appearance looks tired and sick,toxic_look_(typhos)
+I've been feeling really down lately and I don't know why,depression
+It's hard for me to find enjoyment in things I used to love doing,depression
+I've been sleeping more than usual and having trouble getting motivated,depression
+I've been feeling guilty and worthless even when there's no real reason to,depression
+I've been having thoughts of self-harm or suicide and I'm really scared,depression
+I've been snapping at people for no reason and getting really impatient,irritability
+I've noticed that I'm getting angry and frustrated more easily than usual,irritability
+Even small things are setting me off and making me feel irritable,irritability
+I'm finding it hard to control my emotions and it's causing problems in my relationships,irritability
+I'm feeling really agitated and restless all the time,irritability
+I've been having a dull ache in my muscles especially in my arms and legs,muscle_pain
+My muscles feel sore and tender to the touch like I've been working out too hard,muscle_pain
+It's been hard for me to move around and do everyday tasks because of the pain,muscle_pain
+I've noticed that the pain gets worse when I'm stressed or anxious,muscle_pain
+I'm experiencing muscle spasms and cramps that are really uncomfortable,muscle_pain
+I feel confused and disoriented like I don't know where I am or what's going on,altered_sensorium
+I'm having trouble remembering things and feel like I'm in a fog,altered_sensorium
+I feel like my thoughts are jumbled and I can't focus on anything,altered_sensorium
+I'm having trouble speaking and my words aren't coming out right,altered_sensorium
+I'm feeling lightheaded and dizzy like I might pass out,altered_sensorium
+I've noticed these red spots appearing on my skin and they're spreading,red_spots_over_body
+The spots are really itchy and sometimes even painful,red_spots_over_body
+I'm feeling really self-conscious about the spots and they're making me anxious,red_spots_over_body
+The spots are raised and bumpy and they're not going away,red_spots_over_body
+I'm not sure if the spots are related to an allergic reaction or something more serious,red_spots_over_body
+I've been experiencing a sharp pain in my belly especially after eating,belly_pain
+My belly feels bloated and uncomfortable and I'm experiencing cramping,belly_pain
+The pain in my belly is constant and doesn't seem to go away no matter what I do,belly_pain
+I'm experiencing a burning sensation in my belly along with nausea and vomiting,belly_pain
+My belly pain is radiating to my back and is starting to become unbearable,belly_pain
+My periods have become irregular and unpredictable and sometimes they're very heavy,abnormal_menstruation
+I'm experiencing severe cramping and pain during my periods which is unusual for me,abnormal_menstruation
+I've been bleeding between periods or after sex and I'm not sure what's causing it,abnormal_menstruation
+My periods have become much shorter and lighter and I'm worried it might be a sign of something serious,abnormal_menstruation
+I haven't had a period in several months even though I'm not pregnant and I usually have regular cycles,abnormal_menstruation
+I've noticed some dark patches of skin on my face and neck and I'm not sure what's causing them,dischromic_patches
+There are some light-colored patches on my skin that look like vitiligo but I haven't been diagnosed with it,dischromic_patches
+My skin has become discolored in certain areas and it's starting to make me self-conscious,dischromic_patches
+I've had some red or brown patches on my skin that don't seem to go away even with treatment,dischromic_patches
+I've noticed some white or gray patches on my skin that are starting to spread and I'm not sure what to do about it,dischromic_patches
+My eyes have been tearing up a lot lately especially when I'm outside or around animals,watering_from_eyes
+I've been experiencing a lot of eye discharge and watering and it's starting to blur my vision,watering_from_eyes
+My eyes feel itchy and irritated and I've been rubbing them a lot which only makes the watering worse,watering_from_eyes
+I'm having trouble wearing my contact lenses because my eyes are watering so much,watering_from_eyes
+My eyes feel dry and scratchy but they're also watering constantly which is really uncomfortable,watering_from_eyes
+I'm hungry all the time even right after I've eaten a meal,increased_appetite
+I've been craving sweets and carbs more than usual and I can't seem to stop eating,increased_appetite
+No matter how much I eat I never feel full or satisfied and I'm always looking for something else to eat,increased_appetite
+I've gained weight recently and I think it might be because of my increased appetite,increased_appetite
+I'm worried that my increased appetite might be a sign of an underlying medical condition,increased_appetite
+I've been peeing a lot more frequently than usual even when I don't drink much water,polyuria
+I feel like I constantly have to use the bathroom and sometimes I leak urine involuntarily,polyuria
+My urine output has increased significantly and it's starting to affect my sleep and daily activities,polyuria
+I've been feeling really dehydrated despite drinking plenty of fluids and I think it might be because of how much I'm urinating,polyuria
+I've been experiencing a lot of bladder discomfort and pain and I've noticed that I'm urinating more frequently than usual,polyuria
+Several of my relatives have been diagnosed with the same condition I'm experiencing so I'm worried that I might have it too,family_history
+My family has a history of heart disease so I'm trying to be extra careful with my diet and exercise habits,family_history
+My doctor asked about my family history during my checkup and it turns out that some of my relatives have had similar symptoms to mine,family_history
+I'm concerned about my risk for certain diseases because they run in my family,family_history
+I'm planning to get genetic testing done because I want to know if I have a higher risk for certain health conditions based on my family history,family_history
+I've been coughing up phlegm that is thick and sticky almost like glue,mucoid_sputum
+My sputum is white or light gray in color and has a slimy texture,mucoid_sputum
+I've noticed that I'm producing more mucus than usual and it's making it difficult to breathe,mucoid_sputum
+The sputum I'm coughing up has a distinct odor and taste which is concerning to me,mucoid_sputum
+I've been experiencing chest congestion and my sputum is coming out in chunks which is really uncomfortable,mucoid_sputum
+I've been coughing up sputum that is reddish-brown in color like rust,rusty_sputum
+My sputum has a metallic taste and smells really unpleasant almost like blood,rusty_sputum
+I'm worried that the rusty color of my sputum might indicate an infection or other underlying condition,rusty_sputum
+I've noticed that my sputum is becoming more discolored over time and I'm concerned about what that might mean,rusty_sputum
+My doctor told me that rusty sputum can be a sign of pneumonia so I'm going to get checked out,rusty_sputum
+I've been having trouble focusing on tasks and remembering things lately,lack_of_concentration
+My mind feels foggy and scattered and I'm having trouble keeping up with work and school,lack_of_concentration
+I've noticed that I'm easily distracted and have to reread things multiple times to understand them,lack_of_concentration
+I'm having trouble finishing projects and tasks because I can't stay focused for long periods of time,lack_of_concentration
+I've been feeling really forgetful and absent-minded and it's starting to impact my daily life,lack_of_concentration
+I've been having trouble seeing clearly lately especially at night,visual_disturbances
+Sometimes my vision gets blurry or distorted like everything is out of focus,visual_disturbances
+I've been seeing flashes of light or spots in my vision that are really distracting,visual_disturbances
+It feels like there's a veil or curtain over my vision that I can't see through,visual_disturbances
+I'm having trouble judging distances and depth perception which is making it hard to do things like drive or walk,visual_disturbances
+I received a blood transfusion recently and now I'm feeling really weak and tired,receiving_blood_transfusion
+I'm worried that the blood transfusion I received might have caused an infection or reaction in my body,receiving_blood_transfusion
+I've been experiencing fever and chills after receiving a blood transfusion,receiving_blood_transfusion
+I'm experiencing pain and swelling at the site where I received the blood transfusion,receiving_blood_transfusion
+I'm concerned that the blood transfusion I received might not have been screened properly for diseases or infections,receiving_blood_transfusion
+I got an injection recently and now the site is really red and swollen,receiving_unsterile_injections
+I'm worried that the injection I received might have been contaminated or not sterile,receiving_unsterile_injections
+I've been experiencing pain or itching at the site where I received the injection,receiving_unsterile_injections
+I'm concerned that the injection I received might have caused an infection or other complication,receiving_unsterile_injections
+I'm experiencing fever and chills after receiving an injection,receiving_unsterile_injections
+I'm in a coma and don't know how long I've been unconscious,coma
+I've been unresponsive and not waking up even when people try to rouse me,coma
+I'm hooked up to machines and can hear beeping and other sounds around me but can't move or communicate,coma
+My family says I went into a coma after an accident but I don't remember anything that happened,coma
+I'm scared and feel like I'm trapped in my own body while in a coma,coma
+I've been experiencing stomach pain and noticed that my stool is black and tarry,stomach_bleeding
+I've been vomiting blood and feeling really weak and lightheaded,stomach_bleeding
+I'm worried that the pain and discomfort in my stomach might be due to bleeding,stomach_bleeding
+I've been feeling nauseous and bloated and my stomach is tender to the touch,stomach_bleeding
+I've noticed blood in my stool and am concerned that it might be due to bleeding in my digestive tract,stomach_bleeding
+My stomach feels really bloated and uncomfortable,distention_of_abdomen
+I look like I'm pregnant even though I'm not,distention_of_abdomen
+My pants feel really tight and I can't seem to suck my stomach in,distention_of_abdomen
+I've been experiencing a lot of gas and discomfort after eating,distention_of_abdomen
+My stomach feels really heavy and full even when I haven't eaten much,distention_of_abdomen
+I've been drinking more than usual lately and it's starting to affect my daily life,history_of_alcohol_consumption
+I'm worried that my drinking might be getting out of control,history_of_alcohol_consumption
+I often drink to cope with stress or anxiety but I'm starting to realize it's not a healthy habit,history_of_alcohol_consumption
+I've been getting into arguments with my loved ones because of my drinking,history_of_alcohol_consumption
+I've noticed that I need to drink more and more to feel the same effects as before,history_of_alcohol_consumption
+My ankles and feet are really swollen and it's hard to walk or stand for long periods of time,fluid_overload
+I'm having trouble breathing and feel like I'm drowning in fluid,fluid_overload
+I'm constantly thirsty but no matter how much I drink I still feel dehydrated,fluid_overload
+I have to go to the bathroom frequently especially at night,fluid_overload
+I feel really tired and fatigued all the time even though I'm getting enough rest,fluid_overload
+I've been coughing up blood lately and it's really worrying me,blood_in_sputum
+There are red streaks or spots in my phlegm when I blow my nose or cough,blood_in_sputum
+I've been feeling really weak and tired lately and the blood in my sputum is making me more anxious,blood_in_sputum
+I'm having trouble breathing deeply and my chest feels tight,blood_in_sputum
+I have a persistent cough that won't go away and I'm concerned about the blood,blood_in_sputum
+I've noticed that the veins on my calf are bulging and more visible than usual,prominent_veins_on_calf
+My leg feels heavy and achy especially after standing or sitting for long periods of time,prominent_veins_on_calf
+I have a throbbing or cramping sensation in my calf that won't go away,prominent_veins_on_calf
+The skin around my calf feels itchy or irritated and the veins are tender to the touch,prominent_veins_on_calf
+My leg looks discolored or red around the veins and I'm worried it might be a blood clot,prominent_veins_on_calf
+I feel like my heart is racing or fluttering in my chest even when I'm not doing anything strenuous,palpitations
+I've been experiencing some chest discomfort and shortness of breath along with my palpitations,palpitations
+Sometimes I feel lightheaded or dizzy when I have palpitations,palpitations
+My palpitations seem to be triggered by certain foods or drinks like caffeine or alcohol,palpitations
+I'm really scared about my palpitations and worried it might be a sign of something serious,palpitations
+I have a sharp pain in my foot or leg whenever I put weight on it making it hard to walk normally,painful_walking
+My foot feels like it's burning or throbbing after just a few minutes of walking,painful_walking
+My knee or ankle feels unstable or wobbly causing pain when I walk,painful_walking
+The pain in my leg seems to be getting worse over time even though I've tried to rest it,painful_walking
+I've noticed swelling or bruising around the painful area and it's making it hard to walk comfortably,painful_walking
+I have red inflamed bumps on my face or body that are filled with pus and are really painful,pus_filled_pimples
+I've tried over-the-counter acne treatments but nothing seems to be working to clear up my pus-filled pimples,pus_filled_pimples
+Sometimes my pimples burst and release a yellowish fluid leaving behind a scab or scar,pus_filled_pimples
+I'm embarrassed by my pimples and it's affecting my confidence and self-esteem,pus_filled_pimples
+My pus-filled pimples seem to be getting worse spreading to other parts of my body and causing more discomfort,pus_filled_pimples
+I have small dark bumps on my face or nose that are really noticeable and won't go away,blackheads
+My blackheads are really stubborn and seem to be getting worse even though I've tried different skincare products,blackheads
+Sometimes I squeeze or pick at my blackheads but it only makes them worse and leaves behind redness and irritation,blackheads
+I'm self-conscious about my blackheads and it's affecting my social life and relationships,blackheads
+I'm worried my blackheads might be a sign of a more serious skin condition and I should see a dermatologist,blackheads
+I have marks or indentations on my skin that won't go away even though the injury or wound has healed,scurring
+Sometimes my scars itch or feel uncomfortable especially if they are on a sensitive area like my face or hands,scurring
+I'm really self-conscious about my scars and it's affecting my confidence and self-esteem,scurring
+My scars are getting worse over time and I'm worried they might be a sign of a more serious condition,scurring
+I've tried different scar creams and treatments but nothing seems to be working to improve the appearance of my scars,scurring
+I've noticed my skin is starting to peel in patches especially on my hands and feet,skin_peeling
+My skin feels dry and flaky and I've been noticing a lot of peeling around my fingernails,skin_peeling
+I got a really bad sunburn a few weeks ago and now my skin is peeling in large sheets,skin_peeling
+I've been using a new skincare product and now my face is peeling in certain areas,skin_peeling
+My skin has been feeling really itchy and when I scratch I notice there's a lot of peeling skin,skin_peeling
+My skin has been developing these small patches of silver-colored dust that won't rub off,silver_like_dusting
+I've noticed my hair and scalp have a silver-like dusting that's hard to wash out,silver_like_dusting
+When I scratch my skin I notice a silver-like dusting under my fingernails,silver_like_dusting
+I've noticed a silver-like dusting on my clothing and bedding and I'm not sure where it's coming from,silver_like_dusting
+My skin has a silver-like sheen to it almost like metallic paint,silver_like_dusting
+I've noticed that my nails have small dents in them especially on my thumbs and index fingers,small_dents_in_nails
+When I press on my nails I can feel small dents or bumps on the surface,small_dents_in_nails
+My nails used to be smooth but now they have small dents that make them look uneven,small_dents_in_nails
+I think I might have damaged my nails somehow because there are small dents and ridges all over them,small_dents_in_nails
+My doctor told me that the small dents in my nails might be a sign of a nutritional deficiency,small_dents_in_nails
+My nails have become red swollen and painful and I'm not sure what's causing it,inflammatory_nails
+I've noticed that my nails are starting to lift away from the nail bed and there's a lot of inflammation around the edges,inflammatory_nails
+My doctor told me that I have inflammatory nails and prescribed some medication to help with the pain and swelling,inflammatory_nails
+I've been doing some research and it seems like inflammatory nails can be a sign of an autoimmune disease,inflammatory_nails
+I've tried using topical treatments and soaking my nails but the inflammation doesn't seem to be going away,inflammatory_nails
+I have a painful blister on my foot from wearing new shoes for too long,blister
+I accidentally burned myself while cooking and now I have a blister on my finger,blister
+I noticed a blister forming on my lip after spending a lot of time in the sun,blister
+I have a blister on my hand from using a rake for too long without gloves,blister
+I think I might be allergic to something because I keep getting blisters on my skin in random places,blister
+I have a red painful sore that's developed around my nose,red_sore_around_nose
+There's some swelling and tenderness around my nose and it looks like a sore,red_sore_around_nose
+I've noticed a persistent red spot on my nose that's been getting worse,red_sore_around_nose
+The skin around my nose feels raw and sore and there's some redness and tenderness,red_sore_around_nose
+I'm experiencing some discomfort and tenderness on the skin around my nose which is also red and inflamed,red_sore_around_nose
+There's some yellowish discharge oozing from a sore on my skin,yellow_crust_ooze
+I've noticed some crusty yellowish patches on my skin that seem to be oozing,yellow_crust_ooze
+There's a yellowish crusty substance oozing out of my skin that's causing some discomfort,yellow_crust_ooze
+I have a rash or sore on my skin that's producing a yellowish crusty discharge,yellow_crust_ooze
+I'm experiencing some itching and burning on my skin where there's a yellowish crusty discharge,yellow_crust_ooze
+What's the expected outcome or prognosis for my condition?,prognosis
+Can you give me some information about the prognosis for my illness?,prognosis
+I'm concerned about my prognosis and wondering what my chances are for recovery,prognosis
+Is there anything I can do to improve my prognosis or increase my chances of recovery?,prognosis
+I'm hoping for a positive prognosis and looking for ways to stay optimistic,prognosis
+I've noticed some light bleeding or spotting when I urinate,spotting_urination
+My urine has some spots of blood in it which is concerning,spotting_urination
+I'm experiencing some spotting or light bleeding during urination which is unusual for me,spotting_urination
+There's some spotting or discoloration when I urinate that's causing me some discomfort,spotting_urination
+I'm worried about the spotting or bleeding during urination and wondering if it's a sign of something serious,spotting_urination
+I'm having trouble catching my breath and feeling short of breath,breathlessness
+I've noticed that I'm getting breathless more easily even with simple activities,breathlessness
+I'm experiencing some tightness in my chest and feeling breathless especially when I exert myself,breathlessness
+I'm feeling breathless and wheezy like I can't get enough air into my lungs,breathlessness
+I'm concerned about the breathlessness I'm experiencing and wondering if it's a sign of something serious,breathlessness
