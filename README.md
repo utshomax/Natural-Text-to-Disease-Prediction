@@ -5,8 +5,8 @@ This codebase is part of :
 Thesis submitted in partial fulfillment
 of the requirements for the degree of
 ## Bachelor of Technology
-in
-Computer Science and Engineering by
+in Department of Computer Science and Engineering
+at National Institute of Technology Rourkela by
 ### Utsab Ojha
 
 based on research carried out
