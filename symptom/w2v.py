@@ -76,7 +76,7 @@ def evaluate_model(model, test_data):
     y_pred = test_data['Text'].apply(detect_symptom, model=model)
     accuracy = accuracy_score(y_true, y_pred)
     confusion = confusion_matrix(y_true, y_pred)
-    accuracy = 0.67867
+    #accuracy = 0.67867
     return accuracy, confusion
 
 test_data = pd.read_csv('data_sheet.csv')
